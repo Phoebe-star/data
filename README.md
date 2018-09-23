@@ -22,8 +22,8 @@ DL 入门：关于「Inception」和「Xception」的那些事
 
 
 
-
-
+MobileNet V2 论文初读
+- https://zhuanlan.zhihu.com/p/33075914
 
 
 
