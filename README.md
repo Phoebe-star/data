@@ -16,3 +16,14 @@ TensorFlow入门（七） 充分理解 name / variable_scope
 
 DL 入门：关于「Inception」和「Xception」的那些事
 - https://www.davex.pw/2018/02/05/breadcrumbs-about-inception-xception/
+
+卷积神经网络[AlexNet，VGG，GoodLeNet，resNet(还没写)，Xception，SqueezeNet,shufflenet(没写),MobileNet]
+- https://www.zybuluo.com/Team/note/1254149
+
+
+
+
+
+
+
+
