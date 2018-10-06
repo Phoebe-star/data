@@ -26,4 +26,5 @@ MobileNet V2 论文初读
 - https://zhuanlan.zhihu.com/p/33075914
 
 
-
+轻量级网络模型优化进化史总结——Inception V1-4，ResNet，Xception，ResNeXt，MobileNe，,ShuffleNet，DenseNet
+- https://blog.csdn.net/Lucifer_zzq/article/details/79118600
